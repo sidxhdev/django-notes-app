@@ -1,0 +1,12 @@
+.git
+.gitignore
+
+data/
+mysql/
+db/
+
+*.log
+.env
+
+docker-compose.yml
+EOF
